@@ -1,1 +1,3 @@
-# Gi-h-ng---PHP
+Nguyễn Quang Thái 
+
+Giỏ hàng Kangaroo - PHP
